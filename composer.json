@@ -1,0 +1,17 @@
+{
+    "name": "makkus183/SlackWebhookMessenger",
+    "description": "Slack Webhook Messenger Library",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "files": ["src/SlackWebhookMessenger.php"]
+    },
+    "authors": [
+        {
+            "name": "Markus Bruns",
+            "email": "mail.markusbruns@gmail.com"
+        }
+    ]
+}
