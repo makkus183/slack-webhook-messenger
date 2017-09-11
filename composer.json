@@ -1,5 +1,5 @@
 {
-    "name": "makkus183/SlackWebhookMessenger",
+    "name": "makkus183/slack-webhook-messenger",
     "description": "Slack Webhook Messenger Library",
     "type": "library",
     "require": {
