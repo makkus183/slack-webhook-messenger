@@ -3,7 +3,7 @@
     "description": "Slack Webhook Messenger Library",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "~6.0"
+        "guzzlehttp/guzzle": "~7.0"
     },
     "autoload": {
         "files": ["src/SlackWebhookMessenger.php"]
